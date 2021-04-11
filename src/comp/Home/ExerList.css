@@ -1,0 +1,24 @@
+.exercise-list {
+  display: grid;
+  margin-top: 5rem;
+  margin-left: 15%;
+  place-items: left;
+  
+  grid-template-rows: repeat(5, auto);
+  grid-gap: 45px;
+  list-style:  none;
+  text-align: left;
+  
+  margin-right: 2rem;
+}
+
+.exercise-preview {
+  display: grid;
+  grid-template-columns: auto auto auto  auto ;
+  grid-template-columns: 2fr 500px 1fr; 
+  place-items: left;
+  grid-gap: 1rem;
+  text-align: left;
+  
+  
+}

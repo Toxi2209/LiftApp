@@ -1,0 +1,25 @@
+{
+  "exercises": [
+    {
+      "title": "Bench Press",
+      "set": "5x5",
+      "id": "1",
+      "value": "60",
+      "day": "Sun"
+    },
+    {
+      "title": "Overhead Press",
+      "set": "5x5",
+      "id": "2",
+      "value": "40",
+      "day": "Sun"
+    },
+    {
+      "title": "Squat",
+      "set": "5x5",
+      "id": "3",
+      "value": "100",
+      "day": "Mon"
+    }
+  ]
+}
